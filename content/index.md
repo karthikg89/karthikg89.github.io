@@ -1,5 +1,5 @@
-% My Website - Home
+% Klein's Playground Collective
 
-# Example website
+# Klein's Playground
 
-Main page.
+This is a website about the Klein's Playground. A scuplture that a group of friends built in the summer of 2019. 
