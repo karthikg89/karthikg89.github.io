@@ -1,3 +1,3 @@
-% My Website - About Me
+% Klein's Playground Collective
 
-About me.
+This website is about a group of friends who build art inspired by math.
