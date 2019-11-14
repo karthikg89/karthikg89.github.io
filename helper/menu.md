@@ -1,6 +1,6 @@
 
 #[Klein's Playground](index.html)
 
-#[Portals](html/portals.html)
+#[Portals](portals.html)
 
-#[About](html/about.html)
+#[About](about.html)
