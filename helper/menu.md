@@ -1,8 +1,12 @@
 
-#[Klein's Playground (2019)](index.html)
+<a href="index.html">Klein's Playground (2019)</a>
+----
 
-#[Portals (2020)](portals.html)
+<a href="portals.html">Portals (2020)</a>
+----
 
-#[DSMC (2022)](deepstate.html)
+<a href="deepstate.html">DSMC (2022)</a>
+----
 
-#[About](about.html)
+<a href="about.html">About</a>
+----
